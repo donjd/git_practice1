@@ -1,3 +1,3 @@
 # git_practice1
 
-This is a practice run.
+Here I will practice using git and take notes.

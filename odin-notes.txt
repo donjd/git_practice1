@@ -1,0 +1,11 @@
+Git Workflow
+1. Create new repo in GitHub
+2. Copy the SSH url
+3. Go to terminal and type:
+    $git clone (url)
+4. cd into the new directory
+5. add files as desired
+6. use $git status to see the status of your tree
+7. $git add (file name) to add the changes to staged
+8. $git commit -m "" to commit the changes and flag it with a message
+9. $git push to push it to git GitHub
